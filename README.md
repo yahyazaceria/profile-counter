@@ -3,7 +3,7 @@
 A profile counter that updates 
 that looks something like this 
 
-<img src="https://profile-counter.deno.dev/profile-count-repo/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/yahyazaceria/count.svg" alt="Key:: Visitor's Count" length="" height="" align=""/>
 
 To add this to your readme:
 
