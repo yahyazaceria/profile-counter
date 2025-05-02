@@ -29,7 +29,7 @@ export function makeSvg(count: number) {
   const parts = countArray.reduce(
     (acc, next, index) =>
       `${acc}
-       <rect id="Rectangle" fill="#000000" x="${index * 32}" width="29" height="29"></rect>
+       <rect id="Rectangle" fill="#000000" x="${index * 32}" width="100" height="100"></rect>
        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
            <tspan x="${index * 32 + 7}" y="22">${next}</tspan>
        </text>
